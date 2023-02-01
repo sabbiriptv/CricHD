@@ -1,8 +1,10 @@
 <h1 align="center">
-  <img alt="CricHD Logo" src="https://b.crichd.tv/assets/images/logo-front.png" width="224px"/><br/>
-  ⭐️ <a href="https://raw.githubusercontent.com/sabbiriptv/JIO_IPTV/main/JIO.m3u">CricHD</a> ⭐️
+  <a href="https://raw.githubusercontent.com/sabbiriptv/CricHD/main/CricHD.m3u">
+     <img alt="CricHD Logo" src="https://telegra.ph/file/a4e3524ada8cf9057fe9b.png"/>
+  </a> 
 </h1>
-<p align="center">An <a href="https://raw.githubusercontent.com/sabbiriptv/JIO_IPTV/main/JIO.m3u">M3U</a> File Containing <b>Free</b> Streamable Links</p>
+
+<p align="center">An <a href="https://raw.githubusercontent.com/sabbiriptv/CricHD/main/CricHD.m3u">M3U</a> File Containing <b>Free</b> Streamable Links</p>
 
 # ▶️ How To Play:
 
@@ -37,7 +39,7 @@
 - [VLC for Android](https://play.google.com/store/apps/details?id=org.videolan.vlc) - Free and open-source portable cross-platform media player.
 
 # 📘 Note:
-🚨 New Fast And Stable Servers Added
+🚨 Tested In VLC On Windows
 
 # 💛 Contact Me:
 <a href="mailto:sabbirhasan10000bd@gmail.com"><img src="https://img.shields.io/badge/Email-sabbirhasan10000bd@gmail.com-teal?style=for-the-badge&logo=gmail" /></a>
