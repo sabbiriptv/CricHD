@@ -1,6 +1,8 @@
 #EXTM3U
 # Made By (https://www.github.com/sabbiriptv)
 
+#EXTINF:-1 group-title="CricHD-SabbirIPTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b7/Astro_Cricket.png",Astro Cricket HD
+https://crichd-sabbiriptv.vercel.app/api?id=astrocric
 #EXTINF:-1 group-title="CricHD-SabbirIPTV" tvg-logo="https://media.info/i/lf/0/1672512690/6781.png",ViaplayXtra
 https://crichd-sabbiriptv.vercel.app/api?id=viaplayextra
 #EXTINF:-1 group-title="CricHD-SabbirIPTV" tvg-logo="https://i.postimg.cc/mD2B8h2h/Star-Sports-1-HD.png",Star Sports 1 HD
