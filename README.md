@@ -4,7 +4,7 @@
   </a> 
 </h1>
 
-<p align="center">An <a href="https://raw.githubusercontent.com/sabbiriptv/CricHD/main/CricHD.m3u">M3U</a> File Containing <b>Free</b> Streamable Links</p>
+<p align="center">Stream <a href="https://raw.githubusercontent.com/sabbiriptv/CricHD/main/CricHD.m3u">CricHD</a> Without Ads On Your Favourite IPTV Player</p>
 
 # ▶️ How To Play:
 
